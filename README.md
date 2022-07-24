@@ -4,8 +4,6 @@
 
 I am a Backend Engineer and I have professionally worked with Java, NodeJS and Go.
 
-Here are some of my open-source contributions.
-
 ## Major Projects
 
 - [configurator](https://github.com/banknovo/configurator) - A CLI utility that makes it easy to source environment variables from AWS Parameters Store.
