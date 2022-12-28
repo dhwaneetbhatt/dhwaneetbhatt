@@ -7,7 +7,7 @@ I am a Backend Engineer and I have professionally worked with Java, NodeJS and G
 ## Major Projects
 
 - [configurator](https://github.com/banknovo/configurator) - A CLI utility that makes it easy to source environment variables from AWS Parameters Store.
-- [pool](https://github.com/banknovo/configurator) - A connection pool for raw TCP connections.
+- [pool](https://github.com/banknovo/pool) - A connection pool for raw TCP connections.
 
 ## Minor Contributions
 
