@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-💼 I’m currently working as a Staff Engineer at Postman. More about me [here](https://dhwaneetbhatt.com).
+💼 I’m currently working as a Staff Engineer at Postman.
 
 I am a Backend Engineer and I have professionally worked with Java, NodeJS and Go.
 
 ## Major Projects
 
+- [postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Generates code snippets for Postman requests. I am a maintainer of this project.
 - [configurator](https://github.com/banknovo/configurator) - A CLI utility that makes it easy to source environment variables from AWS Parameters Store.
 - [pool](https://github.com/banknovo/pool) - A connection pool for raw TCP connections.
 
