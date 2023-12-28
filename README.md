@@ -7,8 +7,9 @@ I am a Backend Engineer and I have professionally worked with Java, NodeJS and G
 ## Major Projects
 
 - [postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Generates code snippets for Postman requests. I was a maintainer of this project during my stint at Postman.
-- [configurator](https://github.com/banknovo/configurator) - A CLI utility that makes it easy to source environment variables from AWS Parameters Store. I indpendently created and published this to GitHub.
-- [pool](https://github.com/banknovo/pool) - A connection pool for raw TCP connections. I indpendently created and published this to GitHub.
+- I created and maintained these projects when I worked at [Novo](https://novo.co).
+  - [configurator](https://github.com/banknovo/configurator) - A CLI utility that makes it easy to source environment variables from AWS Parameters Store. 
+  - [pool](https://github.com/banknovo/pool) - A connection pool for raw TCP connections.
 
 ## Minor Contributions
 
