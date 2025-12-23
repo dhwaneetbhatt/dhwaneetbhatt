@@ -6,7 +6,7 @@ I am a Backend Engineer and I have professionally worked with Python, Go, NodeJS
 
 ## Major Projects
 
-- [strapd](https://github.com/dhwaneetbhatt/strapd) - A CLI and webapp for common utlities
+- [strapd](https://github.com/dhwaneetbhatt/strapd) - A CLI and webapp for common utilities
 - [postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Generates code snippets for Postman requests. I was a maintainer of this project during my stint at Postman.
 - I created and maintained these projects at [Novo](https://novo.co).
   - [configurator](https://github.com/banknovo/configurator) - A CLI utility that easily sources environment variables from the AWS Parameters Store. 
