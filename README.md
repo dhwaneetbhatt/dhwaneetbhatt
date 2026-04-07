@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-💼 I’m currently working as a Staff Software Engineer at [Alation](https://www.alation.com/).
-
-I am a Backend Engineer and I have professionally worked with Python, Go, NodeJS and Java.
+💼 I’m currently working as a Product Engineering Lead at [Ignosis](https://ignosis.ai/).
 
 ## Major Projects
 
